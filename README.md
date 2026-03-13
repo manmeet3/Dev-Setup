@@ -38,8 +38,8 @@
 - apt (Linux)
 
 ## Config Files Created
-~/.zshrc
-~/.config/starship.toml
-~/.tmux.conf
-~/.config/ghostty/config.ghostty
-~/.config/nvim
+- ~/.zshrc
+- ~/.config/starship.toml
+- ~/.tmux.conf
+- ~/.config/ghostty/config.ghostty
+- ~/.config/nvim
